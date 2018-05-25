@@ -1,7 +1,8 @@
 # Deploy JBoss Operator
 
 ```
-OLM must already be installed in your cluster. https://github.com/operator-framework/operator-lifecycle-manager/blob/master/Documentation/install/install.md 
+OLM must already be installed in your cluster. 
+https://github.com/operator-framework/operator-lifecycle-manager/blob/master/Documentation/install/install.md 
 ```
 
 
