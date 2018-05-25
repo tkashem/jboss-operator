@@ -1,0 +1,7 @@
+apiVersion: jboss.redhat.com/v1
+kind: JBossApp
+metadata:
+  name: my-jboss-example
+  namespace: tohinkashem
+spec:
+  size: 1

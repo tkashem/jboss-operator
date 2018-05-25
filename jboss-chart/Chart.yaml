@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for RedHat JBoss Web Server 3.1 - Tomcat
+name: jboss-webserver
+version: 0.1.0

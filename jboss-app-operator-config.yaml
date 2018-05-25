@@ -1,0 +1,13 @@
+# If the CustomResourceDefinition (CRD) for this application is modified, please make sure to
+# adjust the reference in the `crd` block below.
+crd:
+  group: jboss.redhat.com
+  name: jboss-apps
+  version: v1
+  namespace: tohinkashem
+helm:
+  chart: /chart
+  namespace: tohinkashem
+logging:
+  debug: true
+  pretty: true
